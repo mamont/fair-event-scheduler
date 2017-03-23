@@ -1,0 +1,12 @@
+node_modules
+docs
+bin
+dist
+build
+lib
+browser
+*.swp
+*.swo
+.idea
+.vscode
+npm-debug.log
